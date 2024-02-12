@@ -1,6 +1,4 @@
 
-# Project Title
-
 👋Hello, I'm Flavia, an engineer with 4 years of experience in manufacturing, where I've cultivated a strong foundation in efficiency and problem-solving. As I transition into the dynamic world of web development, my skill set encompasses a wide range of technologies and tools:
 
 💻 Full-Stack Developer: Proficient in  HTML, CSS, JavaScript, TypeScript, SASS, React, Redux, Node.js, Express MongoDB and MySQL I'm passionate about crafting elegant and efficient web applications. I'm currently learning AWS and PostgreSQL.
